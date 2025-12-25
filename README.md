@@ -36,8 +36,9 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+<img width="980" height="831" alt="Screenshot 2025-12-25 220428" src="https://github.com/user-attachments/assets/6ed729fb-f642-4623-bc27-49db90dd605a" />
 
-[MONI 5.1 DRAWING.pdf](https://github.com/user-attachments/files/24339600/MONI.5.1.DRAWING.pdf)
+
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
