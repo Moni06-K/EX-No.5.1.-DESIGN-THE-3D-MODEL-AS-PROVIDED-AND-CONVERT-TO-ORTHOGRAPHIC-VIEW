@@ -1,5 +1,5 @@
-# EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
+## EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
+## DATE:25.12.2025
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+[MONI 5.1 DRAWING.pdf](https://github.com/user-attachments/files/24339597/MONI.5.1.DRAWING.pdf)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
